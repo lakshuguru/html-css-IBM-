@@ -1,0 +1,31 @@
+.upper{
+    background-color: greenyellow;    
+    text-align: center;
+    height: 10em;
+    font-weight: bold;
+    
+}
+h1{
+    padding: 140px; 
+    width: (1,2);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.side{
+    display: flex;
+    position: relative;
+    z-index: 2;
+    right: 10px;
+    top: 20px;
+    /*background-color: lightpink;*/
+    height: 20em; 
+    
+        
+}
+p{
+    position:relative;
+}
+.container{
+    font-size:22px;
+}
